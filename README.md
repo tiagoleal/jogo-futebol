@@ -1,2 +1,3 @@
-# jogo-futebol
-Jogo de Futebol  feito em C++
+# Jogo de futebol desenvolvido em C++
+--------------------------------------
+- Para executar basta rodar o arquivo no formato exe
